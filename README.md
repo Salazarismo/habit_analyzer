@@ -47,10 +47,12 @@ cd habit_analyzer
 python src/analyzer.py
 
 ###Contact###
+
 Professional email: victor.de.alcantara.bueno@gmail.com
 
 Discord: index_salazar
 
 Feedback
+
 Constructive criticism, questions, and suggestions are essential for this project's growth. Feel free to contribute or open issues.
 
