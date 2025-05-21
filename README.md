@@ -27,6 +27,7 @@ analyzer.py — Performs data analysis, counting and summarizing relevant inform
 reporter.py — Generates consolidated reports, showing sums and averages grouped by date and activity type.
 
 ###How to Use###
+
 Make sure the file data/logs.txt is properly formatted with lines like:
 
 ##bash##
