@@ -1,0 +1,2 @@
+Requeriments for this apps are:
+Python 3.11.9
