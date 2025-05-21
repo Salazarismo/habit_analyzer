@@ -43,6 +43,7 @@ Run the main script to see the summary and full report:
 bash:
 
 cd habit_analyzer
+
 python src/analyzer.py
 
 ###Contact###
