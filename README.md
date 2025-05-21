@@ -55,8 +55,7 @@ bash:
 
 cd habit_analyzer
 
-python src/analyzer.py
-
+$ PYTHONUTF8=1 python src/analyzer.py
 
 ###Contact###
 
